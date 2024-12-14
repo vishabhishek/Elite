@@ -1,0 +1,29 @@
+# Windows system files
+Thumbs.db
+desktop.ini
+*.lnk
+
+# Node
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Build directories
+dist/
+build/
